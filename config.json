@@ -1,0 +1,12 @@
+{
+  "port": "8000",
+  "name": "Elementor Bot",
+  "description": "Elementor Bot is the only Discord bot you'll ever need. It has powerfull latest features which can manage discord server. It contains latest discord features like buttons, forms, menu, etc",
+  "invite": "https://discord.com/api/oauth2/authorize?client_id=1049707375952679032&permissions=8&scope=bot%20applications.commands",
+  "support": "https://discord.gg/JP3UaweEsn",
+  "pfp": "https://media.discordapp.net/attachments/1095820524053086269/1126364420453441576/6738266c588d76b24155f2ec2ebbbe24-fotor-2023070677261.png",
+  "feature1": "Music, It can play different kind of music from different platforms like spotify, apple, etc.",
+  "feature2": "Moderation, It has many moderation command with latest discord fetures like timeout.",
+  "feature3": "Games, It contain Games and Fun commands where you can play it, have fun.",
+  "feature4": "Ticket, It is very easy to pull the ticket and close it. It has buttons to make more easy to use."
+}
